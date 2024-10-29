@@ -1,0 +1,140 @@
+.ascsoftw_sl_store_holder{
+    width:98%;
+    padding: 2%;
+    margin: 0 !important;
+    display: inline-block;
+    max-width: 100% !important;
+}
+.ascsoftw_sl_store_header{
+    width: 100%;
+    margin-bottom: 20px
+}
+
+.ascsoftw_sl_store_map{
+    width:70%;
+    display: inline-block
+}
+.ascsoftw_sl_store_map.ascsoftw_sl_left{
+    float:left
+}
+.ascsoftw_sl_store_map.ascsoftw_sl_right{
+    float:right
+}
+
+.ascsoftw_sl_store_results{
+    width:25%;
+    display: inline-block;
+    vertical-align: top;
+}
+.ascsoftw_sl_store_results.ascsoftw_sl_right{
+    margin-left:10px;
+    margin-right: 0px;
+    float:right;
+}
+.ascsoftw_sl_store_results.ascsoftw_sl_left{
+    margin-right:10px;
+    margin-left:0px;
+    float:left
+}
+
+#ascsoftw_sl_list{
+    margin-top: 0;
+    padding:0px;
+}
+#ascsoftw_sl_list li{
+    list-style-type: none;
+    background: #ededed;
+    padding: 10px 5px 10px 15px;
+    border-bottom: 2px solid #ddd;
+    text-transform: capitalize;
+}
+
+#ascsoftw_sl_list li.active{
+    background: #dddddd;
+}
+
+#ascsoftw_sl_list li h4{
+    margin: 0;
+    margin-bottom: 5px;
+    text-decoration: underline;
+    word-break: break-word;
+}
+
+#ascsoftw_sl_list li p{
+    margin: 0;
+    padding: 0;
+    line-height: 130%;
+}
+
+#ascsoftw_sl_list li p a,#ascsoftw_sl_list li h4 a{
+    text-decoration: none;
+    outline:none
+}
+
+#ascsoftw_sl_map {
+    width:100%
+}
+
+#infowindow-content .title {
+    font-weight: bold;
+}
+
+#ascsoftw_sl_map #infowindow-content {
+    display: inline;
+}
+
+#ascsoftw_sl_searchtext {
+    background-color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 3px;
+    text-overflow: ellipsis;
+    width: 80%;
+    margin: 20px 0;
+}
+
+#ascsoftw_sl_searchtext:focus {
+    border-color: #4d90fe;
+}
+
+#ascsoftw_sl_no_results {
+    display: none;
+    font-weight: bold;
+    padding:2px 10px;
+    color: red;
+}
+
+.ascosftw_sl_element {
+    margin: 0 20px 15px 0;
+    display: inline-block;
+}
+
+.ascsoftw_sl_store_results  {
+    border: 1px solid #ddd;
+}
+.ascsoftw_sl_detail {
+    line-height: 1;
+}
+
+.ascsoftw_sl_detail_wrap_main {
+    padding : 8px 0;
+    word-break: break-word;
+}
+
+.ascsoftw_sl_detail_wrap {
+    padding : 2px 0;
+    word-break: break-word;
+}
+
+.ascsoftw_sl_ss_row {
+    visibility:hidden;
+    background-color: #fff3cd;
+    padding: 5px 10px;
+
+}
+
+.ascsoftw_sl_spinner {visibility:hidden;}
+
+@media (max-width: 900px) {
+    .ascsoftw_sl_store_map, .ascsoftw_sl_store_results {float:none; width:98%; }
+}

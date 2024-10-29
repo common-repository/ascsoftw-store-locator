@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-10 12:33+0000\n"
+"PO-Revision-Date: 2019-10-10 18:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: admin/class-ascsoftw-sl-admin.php:99
+msgid "KM"
+msgstr "粁"
+
+#: admin/class-ascsoftw-sl-admin.php:100
+msgid "Miles"
+msgstr "マイル"
+
+#: admin/class-ascsoftw-sl-admin.php:104
+msgid "Yes"
+msgstr "はい"
+
+#: admin/class-ascsoftw-sl-admin.php:105
+msgid "No"
+msgstr "いや"
+
+#: admin/class-ascsoftw-sl-admin.php:109
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/class-ascsoftw-sl-admin.php:110
+msgid "Top Left"
+msgstr "左上"
+
+#: admin/class-ascsoftw-sl-admin.php:111
+msgid "Top Center"
+msgstr "トップセンター"
+
+#: admin/class-ascsoftw-sl-admin.php:112
+msgid "Top Right"
+msgstr "右上"
+
+#: admin/class-ascsoftw-sl-admin.php:113
+msgid "Left Center"
+msgstr "左中央"
+
+#: admin/class-ascsoftw-sl-admin.php:114
+msgid "Left Top"
+msgstr "左上"
+
+#: admin/class-ascsoftw-sl-admin.php:115
+msgid "Left Bottom"
+msgstr "左下"
+
+#: admin/class-ascsoftw-sl-admin.php:116 admin/class-ascsoftw-sl-admin.php:179
+msgid "Right"
+msgstr "右"
+
+#: admin/class-ascsoftw-sl-admin.php:117
+msgid "Right Center"
+msgstr "右中央"
+
+#: admin/class-ascsoftw-sl-admin.php:118
+msgid "Right Bottom"
+msgstr "右下"
+
+#: admin/class-ascsoftw-sl-admin.php:119
+msgid "Bottom Left"
+msgstr "左下の"
+
+#: admin/class-ascsoftw-sl-admin.php:120
+msgid "Bottom Center"
+msgstr "下中央"
+
+#: admin/class-ascsoftw-sl-admin.php:121
+msgid "Bottom Right"
+msgstr "右下"
+
+#: admin/class-ascsoftw-sl-admin.php:122
+msgid "Center"
+msgstr "センター"
+
+#: admin/class-ascsoftw-sl-admin.php:125
+msgid "Note: Kindly use following placeholders"
+msgstr "注：次のプレースホルダーをご利用ください"
+
+#: admin/class-ascsoftw-sl-admin.php:131 admin/class-ascsoftw-sl-admin.php:132
+msgid "Store Locator Settings"
+msgstr "ストアロケーター設定"
+
+#: admin/class-ascsoftw-sl-admin.php:139
+msgid "Initial Section"
+msgstr "最初のセクション"
+
+#: admin/class-ascsoftw-sl-admin.php:140
+msgid "This Section contains mandatory fields required to get you started"
+msgstr "このセクションには、開始に必要な必須フィールドが含まれています"
+
+#: admin/class-ascsoftw-sl-admin.php:144
+msgid "Search Form"
+msgstr "検索フォーム"
+
+#: admin/class-ascsoftw-sl-admin.php:145
+msgid "Customize your Search Form Settings"
+msgstr "検索フォームの設定をカスタマイズする"
+
+#: admin/class-ascsoftw-sl-admin.php:149
+msgid "Result Section"
+msgstr "結果セクション"
+
+#: admin/class-ascsoftw-sl-admin.php:150
+msgid "Customize your Result Section"
+msgstr "結果セクションをカスタマイズする"
+
+#: admin/class-ascsoftw-sl-admin.php:154
+msgid "Map"
+msgstr "地図"
+
+#: admin/class-ascsoftw-sl-admin.php:155
+msgid "Customize your Google Maps"
+msgstr "Googleマップをカスタマイズする"
+
+#: admin/class-ascsoftw-sl-admin.php:162
+msgid "Google API Key"
+msgstr "Google APIキー"
+
+#: admin/class-ascsoftw-sl-admin.php:168
+msgid "Display Result Section?"
+msgstr "結果セクションを表示しますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:171
+msgid "Show Result Section next to Google Maps."
+msgstr "Googleマップの横に結果セクションを表示します。"
+
+#: admin/class-ascsoftw-sl-admin.php:175
+msgid "Position"
+msgstr "ポジション"
+
+#: admin/class-ascsoftw-sl-admin.php:178
+msgid "Left"
+msgstr "左"
+
+#: admin/class-ascsoftw-sl-admin.php:182
+msgid "Controls whether Section is shown Left or Right to Google Map."
+msgstr "セクションをGoogleマップの左に表示するか右に表示するかを制御します。"
+
+#: admin/class-ascsoftw-sl-admin.php:186
+msgid "Show Country?"
+msgstr "国を表示しますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:188
+msgid "Show Country in Result Listing."
+msgstr "結果リストに国を表示します。"
+
+#: admin/class-ascsoftw-sl-admin.php:192
+msgid "Show Zip Code?"
+msgstr "郵便番号を表示しますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:194
+msgid "Show Zip Code Field in Result Listing."
+msgstr "結果リストに郵便番号フィールドを表示します。"
+
+#: admin/class-ascsoftw-sl-admin.php:198
+msgid "Show State?"
+msgstr "状態を表示しますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:200
+msgid "Show State in Result Listing."
+msgstr "結果リストに状態を表示します。"
+
+#: admin/class-ascsoftw-sl-admin.php:204
+msgid "Show Address 2?"
+msgstr "住所2を表示しますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:206
+msgid "Show Address 2 in Result Listing."
+msgstr "結果リストに住所2を表示します。"
+
+#: admin/class-ascsoftw-sl-admin.php:210
+msgid "Link URL to Store Name?"
+msgstr "URLをストア名にリンクしますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:213
+msgid "If checked, clicking on Store Name will open Store URL."
+msgstr "チェックした場合、ストア名をクリックするとストアURLが開きます。"
+
+#: admin/class-ascsoftw-sl-admin.php:217
+msgid "Bounce on Mouseover?"
+msgstr "マウスオーバーでバウンスしますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:220
+msgid ""
+"When User moves mouse over the Result Listing correponsing Marker on Google "
+"Maps will Bounce."
+msgstr ""
+"ユーザーがマウスを結果リスト上に移動すると、Googleマップのマーカーがバウンス"
+"します。"
+
+#: admin/class-ascsoftw-sl-admin.php:224
+msgid "Open Marker on Click?"
+msgstr "クリックでマーカーを開きますか？"
+
+#: admin/class-ascsoftw-sl-admin.php:227
+msgid ""
+"Clicking on Result Listing will open corresponding Marker on Google Maps"
+msgstr "結果リストをクリックすると、Googleマップで対応するマーカーが開きます"
+
+#: admin/class-ascsoftw-sl-admin.php:233
+msgid "Max Result"
+msgstr "最大結果"
+
+#: admin/class-ascsoftw-sl-admin.php:237
+msgid "Show Max Result Dropdown on Search Form"
+msgstr "検索フォームに最大結果ドロップダウンを表示"
+
+#: admin/class-ascsoftw-sl-admin.php:241
+msgid "Distance Search"
+msgstr "距離検索"
+
+#: admin/class-ascsoftw-sl-admin.php:245
+msgid "Allow User to do Distance Search"
+msgstr "ユーザーが距離検索を行えるようにする"
+
+#: admin/class-ascsoftw-sl-admin.php:249
+msgid "Distance Unit"
+msgstr "距離単位"
+
+#: admin/class-ascsoftw-sl-admin.php:253
+msgid "Unit to be used for Distance Search"
+msgstr "距離検索に使用される単位"
+
+#: admin/class-ascsoftw-sl-admin.php:257
+msgid "Category Filter"
+msgstr "カテゴリーフィルター"
+
+#: admin/class-ascsoftw-sl-admin.php:261
+msgid "Show Dropdown to Filter Search by Category"
+msgstr "ドロップダウンを表示して、カテゴリ別に検索をフィルタリングします"
+
+#: admin/class-ascsoftw-sl-admin.php:265
+msgid "Display Number of Results"
+msgstr "結果の数を表示"
+
+#: admin/class-ascsoftw-sl-admin.php:268
+msgid "Show number of results returned after searching."
+msgstr "検索後に返された結果の数を表示します。"
+
+#: admin/class-ascsoftw-sl-admin.php:274
+msgid "Map Height (px)"
+msgstr "マップの高さ"
+
+#: admin/class-ascsoftw-sl-admin.php:278
+msgid "Height of the Map"
+msgstr "地図の高さ"
+
+#: admin/class-ascsoftw-sl-admin.php:282
+msgid "Zoom Level"
+msgstr "ズームレベル"
+
+#: admin/class-ascsoftw-sl-admin.php:286
+msgid "Default Zoom Level of the Map"
+msgstr "マップのデフォルトのズームレベル"
+
+#: admin/class-ascsoftw-sl-admin.php:290
+msgid "Map type"
+msgstr "地図タイプ"
+
+#: admin/class-ascsoftw-sl-admin.php:294
+msgid "Default Map Type"
+msgstr "デフォルトのマップタイプ"
+
+#: admin/class-ascsoftw-sl-admin.php:298
+msgid "Disable Zoom Control"
+msgstr "ズームコントロールを無効にする"
+
+#: admin/class-ascsoftw-sl-admin.php:302
+msgid "This will hide the Zoom In-Out Button"
+msgstr "これにより、ズームイン/アウトボタンが非表示になります"
+
+#: admin/class-ascsoftw-sl-admin.php:306
+msgid "Disable Map Type Control"
+msgstr "マップタイプコントロールを無効にする"
+
+#: admin/class-ascsoftw-sl-admin.php:310
+msgid "This will hide the button which allows User to change Map Type"
+msgstr ""
+"これにより、ユーザーがマップタイプを変更できるボタンが非表示になります"
+
+#: admin/class-ascsoftw-sl-admin.php:314
+msgid "Disable Full Screen Control"
+msgstr "全画面制御を無効にする"
+
+#: admin/class-ascsoftw-sl-admin.php:318
+msgid "This will hide the Google Map Full Screen Button"
+msgstr "これにより、Googleマップの全画面ボタンが非表示になります"
+
+#: admin/class-ascsoftw-sl-admin.php:322
+msgid "Zoom Position"
+msgstr "ズーム位置"
+
+#: admin/class-ascsoftw-sl-admin.php:326
+msgid "Configure where the Zoom Button is shown on Google Maps."
+msgstr "Googleマップでズームボタンを表示する場所を構成します。"
+
+#: admin/class-ascsoftw-sl-admin.php:330
+msgid "Map Type Position"
+msgstr "マップタイプの位置"
+
+#: admin/class-ascsoftw-sl-admin.php:334
+msgid "Configure where the Map Type Button is shown on Google Maps."
+msgstr "Googleマップでマップタイプボタンを表示する場所を設定します。"
+
+#: admin/class-ascsoftw-sl-admin.php:338
+msgid "Full Screen Position"
+msgstr "フルスクリーン位置"
+
+#: admin/class-ascsoftw-sl-admin.php:342
+msgid "Configure where the Full Screen Button is shown on Google Maps."
+msgstr "Googleマップでフルスクリーンボタンを表示する場所を構成します。"
+
+#: admin/class-ascsoftw-sl-admin.php:346
+msgid "InfoWindow Content"
+msgstr "情報ウィンドウのコンテンツ"
+
+#: admin/class-ascsoftw-sl-admin.php:348
+msgid "Configure the Content Shown in the InfoWindow of Google Maps."
+msgstr "Googleマップの情報ウィンドウに表示されるコンテンツを構成します。"
+
+#: admin/class-ascsoftw-sl-admin.php:362
+msgid "Settings"
+msgstr "設定"
+
+#: includes/class-ascsoftw-sl-post-types.php:57
+msgctxt "post type general name"
+msgid "Stores"
+msgstr "店舗"
+
+#: includes/class-ascsoftw-sl-post-types.php:58
+msgctxt "post type singular name"
+msgid "Store"
+msgstr "店"
+
+#: includes/class-ascsoftw-sl-post-types.php:59
+msgctxt "admin menu"
+msgid "Store Locator"
+msgstr "店舗検索機能"
+
+#: includes/class-ascsoftw-sl-post-types.php:60
+msgctxt "add new on admin bar"
+msgid "Store"
+msgstr "店"
+
+#: includes/class-ascsoftw-sl-post-types.php:61
+msgctxt "ascsoftw_sl"
+msgid "Add New"
+msgstr "新しく追加する"
+
+#: includes/class-ascsoftw-sl-post-types.php:62
+msgid "Add New Store"
+msgstr "新しいストアを追加"
+
+#: includes/class-ascsoftw-sl-post-types.php:63
+msgid "New Store"
+msgstr "新しい店"
+
+#: includes/class-ascsoftw-sl-post-types.php:64
+msgid "Edit Store"
+msgstr "Edit Store"
+
+#: includes/class-ascsoftw-sl-post-types.php:65
+msgid "View Store"
+msgstr "ストアを見る"
+
+#: includes/class-ascsoftw-sl-post-types.php:66
+msgid "All Stores"
+msgstr "全店"
+
+#: includes/class-ascsoftw-sl-post-types.php:67
+msgid "Search Stores"
+msgstr "ストアを検索"
+
+#: includes/class-ascsoftw-sl-post-types.php:68
+msgid "Parent Stores:"
+msgstr "親ストア："
+
+#: includes/class-ascsoftw-sl-post-types.php:69
+msgid "No store found."
+msgstr "店舗が見つかりません。"
+
+#: includes/class-ascsoftw-sl-post-types.php:70
+msgid "No stores found in Trash."
+msgstr "ゴミ箱に店舗が見つかりませんでした。"
+
+#: includes/class-ascsoftw-sl-post-types.php:75
+msgid "Stores."
+msgstr "店舗。"
+
+#: includes/class-ascsoftw-sl-post-types.php:119
+msgid "Store Details"
+msgstr "店舗詳細"
+
+#: includes/class-ascsoftw-sl-post-types.php:128
+msgid "Location"
+msgstr "ロケーション"
+
+#: includes/class-ascsoftw-sl-post-types.php:129
+msgid "Drag the marker to set the exact location"
+msgstr "マーカーをドラッグして正確な位置を設定します"
+
+#: includes/class-ascsoftw-sl-post-types.php:138
+msgid "Address"
+msgstr "住所"
+
+#: includes/class-ascsoftw-sl-post-types.php:149
+msgid "Address 2"
+msgstr "アドレス2"
+
+#: includes/class-ascsoftw-sl-post-types.php:156
+msgid "City"
+msgstr "シティ"
+
+#: includes/class-ascsoftw-sl-post-types.php:167
+msgid "State"
+msgstr ""
+"状態\n"
+"Jōtai"
+
+#: includes/class-ascsoftw-sl-post-types.php:174
+msgid "ZipCode"
+msgstr "郵便番号"
+
+#: includes/class-ascsoftw-sl-post-types.php:181
+msgid "Country"
+msgstr "国"
+
+#: includes/class-ascsoftw-sl-post-types.php:188
+msgid "Phone"
+msgstr "電話"
+
+#: includes/class-ascsoftw-sl-post-types.php:195
+msgid "Email"
+msgstr "電子メイル"
+
+#: includes/class-ascsoftw-sl-post-types.php:205
+msgid "Url"
+msgstr "リンク"
+
+#: public/partials/ascsoftw-sl-public-display.php:23
+msgid "Enter the search location to find Nearest Store"
+msgstr "検索場所を入力して、最寄りの店舗を見つけます"
+
+#: public/partials/ascsoftw-sl-public-display.php:35
+msgid "Max Results"
+msgstr "最大結果"
+
+#: public/partials/ascsoftw-sl-public-display.php:51
+msgid "Radius"
+msgstr "半径"
+
+#: public/partials/ascsoftw-sl-public-display.php:53
+#: public/partials/ascsoftw-sl-public-display.php:69
+msgid "--Any--"
+msgstr " - どれか - "
+
+#: public/partials/ascsoftw-sl-public-display.php:67
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Showing"
+msgstr "表示中"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Results"
+msgstr "結果"
+
+#: public/partials/ascsoftw-sl-public-display.php:107
+msgid "No Results Found"
+msgstr "結果が見つかりません"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "Get Directions"
+msgstr "ルートを取得"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "for"
+msgstr "に向かって"
+
+#. Name of the plugin
+msgid "Ascsoftw Store Locator"
+msgstr "Ascsoftw 店舗検索機能"
+
+#. Description of the plugin
+msgid ""
+"Helps your front end user search the Nearest Stores interactively using "
+"Google Maps."
+msgstr ""
+"フロントエンドユーザーがGoogleマップを使用してインタラクティブに最寄りの店舗"
+"を検索できるようにします。"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://github.com/ascsoftw"
+msgstr "http://github.com/ascsoftw"
+
+#. Author of the plugin
+msgid "Sunil Guleria"
+msgstr "Sunil Guleria"
+
+#~ msgid "Update Fields"
+#~ msgstr "フィールドを更新"

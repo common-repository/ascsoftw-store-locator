@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-10 12:33+0000\n"
+"PO-Revision-Date: 2019-10-10 18:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: admin/class-ascsoftw-sl-admin.php:99
+msgid "KM"
+msgstr "公里"
+
+#: admin/class-ascsoftw-sl-admin.php:100
+msgid "Miles"
+msgstr "英里"
+
+#: admin/class-ascsoftw-sl-admin.php:104
+msgid "Yes"
+msgstr "是"
+
+#: admin/class-ascsoftw-sl-admin.php:105
+msgid "No"
+msgstr "没有"
+
+#: admin/class-ascsoftw-sl-admin.php:109
+msgid "Default"
+msgstr "默认"
+
+#: admin/class-ascsoftw-sl-admin.php:110
+msgid "Top Left"
+msgstr "左上方"
+
+#: admin/class-ascsoftw-sl-admin.php:111
+msgid "Top Center"
+msgstr "顶级中心"
+
+#: admin/class-ascsoftw-sl-admin.php:112
+msgid "Top Right"
+msgstr "右上"
+
+#: admin/class-ascsoftw-sl-admin.php:113
+msgid "Left Center"
+msgstr "左中心"
+
+#: admin/class-ascsoftw-sl-admin.php:114
+msgid "Left Top"
+msgstr "左中心..."
+
+#: admin/class-ascsoftw-sl-admin.php:115
+msgid "Left Bottom"
+msgstr "左下角"
+
+#: admin/class-ascsoftw-sl-admin.php:116 admin/class-ascsoftw-sl-admin.php:179
+msgid "Right"
+msgstr "右边"
+
+#: admin/class-ascsoftw-sl-admin.php:117
+msgid "Right Center"
+msgstr "正确的中心"
+
+#: admin/class-ascsoftw-sl-admin.php:118
+msgid "Right Bottom"
+msgstr "右下角"
+
+#: admin/class-ascsoftw-sl-admin.php:119
+msgid "Bottom Left"
+msgstr "左下方"
+
+#: admin/class-ascsoftw-sl-admin.php:120
+msgid "Bottom Center"
+msgstr "底部中心"
+
+#: admin/class-ascsoftw-sl-admin.php:121
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: admin/class-ascsoftw-sl-admin.php:122
+msgid "Center"
+msgstr "中央"
+
+#: admin/class-ascsoftw-sl-admin.php:125
+msgid "Note: Kindly use following placeholders"
+msgstr "注意：請使用以下佔位符"
+
+#: admin/class-ascsoftw-sl-admin.php:131 admin/class-ascsoftw-sl-admin.php:132
+msgid "Store Locator Settings"
+msgstr "商店定位器设置"
+
+#: admin/class-ascsoftw-sl-admin.php:139
+msgid "Initial Section"
+msgstr "初始部分"
+
+#: admin/class-ascsoftw-sl-admin.php:140
+msgid "This Section contains mandatory fields required to get you started"
+msgstr "本节包含开始使用所必需的必填字段"
+
+#: admin/class-ascsoftw-sl-admin.php:144
+msgid "Search Form"
+msgstr "搜索表格"
+
+#: admin/class-ascsoftw-sl-admin.php:145
+msgid "Customize your Search Form Settings"
+msgstr "自定义搜索表单设置"
+
+#: admin/class-ascsoftw-sl-admin.php:149
+msgid "Result Section"
+msgstr "结果部分"
+
+#: admin/class-ascsoftw-sl-admin.php:150
+msgid "Customize your Result Section"
+msgstr "自定义结果部分"
+
+#: admin/class-ascsoftw-sl-admin.php:154
+msgid "Map"
+msgstr "地图"
+
+#: admin/class-ascsoftw-sl-admin.php:155
+msgid "Customize your Google Maps"
+msgstr "自定义您的Google地图"
+
+#: admin/class-ascsoftw-sl-admin.php:162
+msgid "Google API Key"
+msgstr "Google API密钥"
+
+#: admin/class-ascsoftw-sl-admin.php:168
+msgid "Display Result Section?"
+msgstr "显示结果部分？"
+
+#: admin/class-ascsoftw-sl-admin.php:171
+msgid "Show Result Section next to Google Maps."
+msgstr "在Google地图旁边显示结果部分。"
+
+#: admin/class-ascsoftw-sl-admin.php:175
+msgid "Position"
+msgstr "位置"
+
+#: admin/class-ascsoftw-sl-admin.php:178
+msgid "Left"
+msgstr "左边"
+
+#: admin/class-ascsoftw-sl-admin.php:182
+msgid "Controls whether Section is shown Left or Right to Google Map."
+msgstr "控制是否向Google Map左侧或右侧显示“部分”。"
+
+#: admin/class-ascsoftw-sl-admin.php:186
+msgid "Show Country?"
+msgstr "显示国家？"
+
+#: admin/class-ascsoftw-sl-admin.php:188
+msgid "Show Country in Result Listing."
+msgstr "在结果列表中显示国家。"
+
+#: admin/class-ascsoftw-sl-admin.php:192
+msgid "Show Zip Code?"
+msgstr "显示邮政编码？"
+
+#: admin/class-ascsoftw-sl-admin.php:194
+msgid "Show Zip Code Field in Result Listing."
+msgstr "在结果列表中显示邮政编码字段。"
+
+#: admin/class-ascsoftw-sl-admin.php:198
+msgid "Show State?"
+msgstr "显示州？"
+
+#: admin/class-ascsoftw-sl-admin.php:200
+msgid "Show State in Result Listing."
+msgstr "在结果列表中显示状态。"
+
+#: admin/class-ascsoftw-sl-admin.php:204
+msgid "Show Address 2?"
+msgstr "显示地址2？"
+
+#: admin/class-ascsoftw-sl-admin.php:206
+msgid "Show Address 2 in Result Listing."
+msgstr "在结果列表中显示地址2。"
+
+#: admin/class-ascsoftw-sl-admin.php:210
+msgid "Link URL to Store Name?"
+msgstr "将URL链接到商店名称？"
+
+#: admin/class-ascsoftw-sl-admin.php:213
+msgid "If checked, clicking on Store Name will open Store URL."
+msgstr "如果选中，则单击“商店名称”将打开“商店链接”。"
+
+#: admin/class-ascsoftw-sl-admin.php:217
+msgid "Bounce on Mouseover?"
+msgstr "鼠标悬停弹跳？"
+
+#: admin/class-ascsoftw-sl-admin.php:220
+msgid ""
+"When User moves mouse over the Result Listing correponsing Marker on Google "
+"Maps will Bounce."
+msgstr "当用户将鼠标移到结果列表上时，Google地图上的标记将会反弹。"
+
+#: admin/class-ascsoftw-sl-admin.php:224
+msgid "Open Marker on Click?"
+msgstr "点击打开标记？"
+
+#: admin/class-ascsoftw-sl-admin.php:227
+msgid ""
+"Clicking on Result Listing will open corresponding Marker on Google Maps"
+msgstr "点击结果列表将在Google地图上打开相应的标记"
+
+#: admin/class-ascsoftw-sl-admin.php:233
+msgid "Max Result"
+msgstr "最大结果"
+
+#: admin/class-ascsoftw-sl-admin.php:237
+msgid "Show Max Result Dropdown on Search Form"
+msgstr "在搜索表单上显示最大结果下拉列表"
+
+#: admin/class-ascsoftw-sl-admin.php:241
+msgid "Distance Search"
+msgstr "距离搜索"
+
+#: admin/class-ascsoftw-sl-admin.php:245
+msgid "Allow User to do Distance Search"
+msgstr "允许用户进行距离搜索"
+
+#: admin/class-ascsoftw-sl-admin.php:249
+msgid "Distance Unit"
+msgstr "距离单位"
+
+#: admin/class-ascsoftw-sl-admin.php:253
+msgid "Unit to be used for Distance Search"
+msgstr "用于距离搜索的单位"
+
+#: admin/class-ascsoftw-sl-admin.php:257
+msgid "Category Filter"
+msgstr "类别过滤器"
+
+#: admin/class-ascsoftw-sl-admin.php:261
+msgid "Show Dropdown to Filter Search by Category"
+msgstr "显示下拉列表以按类别筛选搜索"
+
+#: admin/class-ascsoftw-sl-admin.php:265
+msgid "Display Number of Results"
+msgstr "显示结果数"
+
+#: admin/class-ascsoftw-sl-admin.php:268
+msgid "Show number of results returned after searching."
+msgstr "显示搜索后返回的结果数。"
+
+#: admin/class-ascsoftw-sl-admin.php:274
+msgid "Map Height (px)"
+msgstr "地图高度"
+
+#: admin/class-ascsoftw-sl-admin.php:278
+msgid "Height of the Map"
+msgstr "地图的高度"
+
+#: admin/class-ascsoftw-sl-admin.php:282
+msgid "Zoom Level"
+msgstr "缩放级别"
+
+#: admin/class-ascsoftw-sl-admin.php:286
+msgid "Default Zoom Level of the Map"
+msgstr "地图的默认缩放级别"
+
+#: admin/class-ascsoftw-sl-admin.php:290
+msgid "Map type"
+msgstr "地图类型"
+
+#: admin/class-ascsoftw-sl-admin.php:294
+msgid "Default Map Type"
+msgstr "默认地图类型"
+
+#: admin/class-ascsoftw-sl-admin.php:298
+msgid "Disable Zoom Control"
+msgstr "禁用缩放控制"
+
+#: admin/class-ascsoftw-sl-admin.php:302
+msgid "This will hide the Zoom In-Out Button"
+msgstr "这将隐藏放大输入按钮"
+
+#: admin/class-ascsoftw-sl-admin.php:306
+msgid "Disable Map Type Control"
+msgstr "禁用地图类型控制"
+
+#: admin/class-ascsoftw-sl-admin.php:310
+msgid "This will hide the button which allows User to change Map Type"
+msgstr "这将隐藏允许用户更改地图类型的按钮"
+
+#: admin/class-ascsoftw-sl-admin.php:314
+msgid "Disable Full Screen Control"
+msgstr "禁用全屏控制"
+
+#: admin/class-ascsoftw-sl-admin.php:318
+msgid "This will hide the Google Map Full Screen Button"
+msgstr "这将隐藏Google Map全屏按钮"
+
+#: admin/class-ascsoftw-sl-admin.php:322
+msgid "Zoom Position"
+msgstr "缩放位置"
+
+#: admin/class-ascsoftw-sl-admin.php:326
+msgid "Configure where the Zoom Button is shown on Google Maps."
+msgstr "配置缩放按钮在Google地图上的显示位置。"
+
+#: admin/class-ascsoftw-sl-admin.php:330
+msgid "Map Type Position"
+msgstr "地图类型位置"
+
+#: admin/class-ascsoftw-sl-admin.php:334
+msgid "Configure where the Map Type Button is shown on Google Maps."
+msgstr "配置Google地圖上顯示地圖類型按鈕的位置。"
+
+#: admin/class-ascsoftw-sl-admin.php:338
+msgid "Full Screen Position"
+msgstr "全屏位置"
+
+#: admin/class-ascsoftw-sl-admin.php:342
+msgid "Configure where the Full Screen Button is shown on Google Maps."
+msgstr "配置全屏按钮在Google地图上的显示位置。"
+
+#: admin/class-ascsoftw-sl-admin.php:346
+msgid "InfoWindow Content"
+msgstr "信息窗口内容"
+
+#: admin/class-ascsoftw-sl-admin.php:348
+msgid "Configure the Content Shown in the InfoWindow of Google Maps."
+msgstr "配置Google地图信息窗口中显示的内容。"
+
+#: admin/class-ascsoftw-sl-admin.php:362
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-ascsoftw-sl-post-types.php:57
+msgctxt "post type general name"
+msgid "Stores"
+msgstr "商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:58
+msgctxt "post type singular name"
+msgid "Store"
+msgstr "商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:59
+msgctxt "admin menu"
+msgid "Store Locator"
+msgstr "商店定位器"
+
+#: includes/class-ascsoftw-sl-post-types.php:60
+msgctxt "add new on admin bar"
+msgid "Store"
+msgstr "商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:61
+msgctxt "ascsoftw_sl"
+msgid "Add New"
+msgstr "添新"
+
+#: includes/class-ascsoftw-sl-post-types.php:62
+msgid "Add New Store"
+msgstr "添加新商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:63
+msgid "New Store"
+msgstr "新店"
+
+#: includes/class-ascsoftw-sl-post-types.php:64
+msgid "Edit Store"
+msgstr "编辑商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:65
+msgid "View Store"
+msgstr "查看商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:66
+msgid "All Stores"
+msgstr "所有商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:67
+msgid "Search Stores"
+msgstr "搜索商店"
+
+#: includes/class-ascsoftw-sl-post-types.php:68
+msgid "Parent Stores:"
+msgstr "家长商店："
+
+#: includes/class-ascsoftw-sl-post-types.php:69
+msgid "No store found."
+msgstr "找不到商店。"
+
+#: includes/class-ascsoftw-sl-post-types.php:70
+msgid "No stores found in Trash."
+msgstr "在垃圾桶中找不到商店。"
+
+#: includes/class-ascsoftw-sl-post-types.php:75
+msgid "Stores."
+msgstr "商店。"
+
+#: includes/class-ascsoftw-sl-post-types.php:119
+msgid "Store Details"
+msgstr "店铺详情"
+
+#: includes/class-ascsoftw-sl-post-types.php:128
+msgid "Location"
+msgstr "地点"
+
+#: includes/class-ascsoftw-sl-post-types.php:129
+msgid "Drag the marker to set the exact location"
+msgstr "拖动标记以设置确切位置"
+
+#: includes/class-ascsoftw-sl-post-types.php:138
+msgid "Address"
+msgstr "地址"
+
+#: includes/class-ascsoftw-sl-post-types.php:149
+msgid "Address 2"
+msgstr "地址2"
+
+#: includes/class-ascsoftw-sl-post-types.php:156
+msgid "City"
+msgstr "市"
+
+#: includes/class-ascsoftw-sl-post-types.php:167
+msgid "State"
+msgstr "州"
+
+#: includes/class-ascsoftw-sl-post-types.php:174
+msgid "ZipCode"
+msgstr "邮政编码"
+
+#: includes/class-ascsoftw-sl-post-types.php:181
+msgid "Country"
+msgstr "国家"
+
+#: includes/class-ascsoftw-sl-post-types.php:188
+msgid "Phone"
+msgstr "电话"
+
+#: includes/class-ascsoftw-sl-post-types.php:195
+msgid "Email"
+msgstr "电子邮件"
+
+#: includes/class-ascsoftw-sl-post-types.php:205
+msgid "Url"
+msgstr "网址"
+
+#: public/partials/ascsoftw-sl-public-display.php:23
+msgid "Enter the search location to find Nearest Store"
+msgstr "输入搜索位置以查找最近的商店"
+
+#: public/partials/ascsoftw-sl-public-display.php:35
+msgid "Max Results"
+msgstr "最大結果"
+
+#: public/partials/ascsoftw-sl-public-display.php:51
+msgid "Radius"
+msgstr "半径"
+
+#: public/partials/ascsoftw-sl-public-display.php:53
+#: public/partials/ascsoftw-sl-public-display.php:69
+msgid "--Any--"
+msgstr " - 任何 - "
+
+#: public/partials/ascsoftw-sl-public-display.php:67
+msgid "Categories"
+msgstr "分类"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Showing"
+msgstr "显示中"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Results"
+msgstr "结果"
+
+#: public/partials/ascsoftw-sl-public-display.php:107
+msgid "No Results Found"
+msgstr "未找到结果"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "Get Directions"
+msgstr "获取路线"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "for"
+msgstr "向"
+
+#. Name of the plugin
+msgid "Ascsoftw Store Locator"
+msgstr "Ascsoftw商店定位器"
+
+#. Description of the plugin
+msgid ""
+"Helps your front end user search the Nearest Stores interactively using "
+"Google Maps."
+msgstr "帮助您的前端用户使用Google地图以交互方式搜索最近的商店。"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://github.com/ascsoftw"
+msgstr "http://github.com/ascsoftw"
+
+#. Author of the plugin
+msgid "Sunil Guleria"
+msgstr "Sunil Guleria"
+
+#~ msgid "Update Fields"
+#~ msgstr "更新字段"

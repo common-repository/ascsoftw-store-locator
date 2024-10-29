@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-10 12:33+0000\n"
+"PO-Revision-Date: 2019-10-10 18:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: admin/class-ascsoftw-sl-admin.php:99
+msgid "KM"
+msgstr "километр"
+
+#: admin/class-ascsoftw-sl-admin.php:100
+msgid "Miles"
+msgstr "миль"
+
+#: admin/class-ascsoftw-sl-admin.php:104
+msgid "Yes"
+msgstr "да"
+
+#: admin/class-ascsoftw-sl-admin.php:105
+msgid "No"
+msgstr "нет"
+
+#: admin/class-ascsoftw-sl-admin.php:109
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/class-ascsoftw-sl-admin.php:110
+msgid "Top Left"
+msgstr "Верхний левый"
+
+#: admin/class-ascsoftw-sl-admin.php:111
+msgid "Top Center"
+msgstr "Топ Центр"
+
+#: admin/class-ascsoftw-sl-admin.php:112
+msgid "Top Right"
+msgstr "В правом верхнем углу"
+
+#: admin/class-ascsoftw-sl-admin.php:113
+msgid "Left Center"
+msgstr "Левый центр"
+
+#: admin/class-ascsoftw-sl-admin.php:114
+msgid "Left Top"
+msgstr "Левый верх"
+
+#: admin/class-ascsoftw-sl-admin.php:115
+msgid "Left Bottom"
+msgstr "Левый низ"
+
+#: admin/class-ascsoftw-sl-admin.php:116 admin/class-ascsoftw-sl-admin.php:179
+msgid "Right"
+msgstr "направо"
+
+#: admin/class-ascsoftw-sl-admin.php:117
+msgid "Right Center"
+msgstr "Правый Центр"
+
+#: admin/class-ascsoftw-sl-admin.php:118
+msgid "Right Bottom"
+msgstr "Правый нижний"
+
+#: admin/class-ascsoftw-sl-admin.php:119
+msgid "Bottom Left"
+msgstr "Нижний левый"
+
+#: admin/class-ascsoftw-sl-admin.php:120
+msgid "Bottom Center"
+msgstr "Нижний Центр"
+
+#: admin/class-ascsoftw-sl-admin.php:121
+msgid "Bottom Right"
+msgstr "Нижний правый"
+
+#: admin/class-ascsoftw-sl-admin.php:122
+msgid "Center"
+msgstr "Центр"
+
+#: admin/class-ascsoftw-sl-admin.php:125
+msgid "Note: Kindly use following placeholders"
+msgstr "Примечание: пожалуйста, используйте следующие заполнители"
+
+#: admin/class-ascsoftw-sl-admin.php:131 admin/class-ascsoftw-sl-admin.php:132
+msgid "Store Locator Settings"
+msgstr "Настройки локатора магазина"
+
+#: admin/class-ascsoftw-sl-admin.php:139
+msgid "Initial Section"
+msgstr "Начальный раздел"
+
+#: admin/class-ascsoftw-sl-admin.php:140
+msgid "This Section contains mandatory fields required to get you started"
+msgstr "Этот раздел содержит обязательные поля, необходимые для начала работы"
+
+#: admin/class-ascsoftw-sl-admin.php:144
+msgid "Search Form"
+msgstr "Форма поиска"
+
+#: admin/class-ascsoftw-sl-admin.php:145
+msgid "Customize your Search Form Settings"
+msgstr "Настройте параметры формы поиска"
+
+#: admin/class-ascsoftw-sl-admin.php:149
+msgid "Result Section"
+msgstr "Раздел результатов"
+
+#: admin/class-ascsoftw-sl-admin.php:150
+msgid "Customize your Result Section"
+msgstr "Настройте свой раздел результатов"
+
+#: admin/class-ascsoftw-sl-admin.php:154
+msgid "Map"
+msgstr "карта"
+
+#: admin/class-ascsoftw-sl-admin.php:155
+msgid "Customize your Google Maps"
+msgstr "Настройте свои Google Карты"
+
+#: admin/class-ascsoftw-sl-admin.php:162
+msgid "Google API Key"
+msgstr "Ключ API Google"
+
+#: admin/class-ascsoftw-sl-admin.php:168
+msgid "Display Result Section?"
+msgstr "Показать раздел результатов?"
+
+#: admin/class-ascsoftw-sl-admin.php:171
+msgid "Show Result Section next to Google Maps."
+msgstr "Показать раздел результатов рядом с Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:175
+msgid "Position"
+msgstr "Позиция"
+
+#: admin/class-ascsoftw-sl-admin.php:178
+msgid "Left"
+msgstr "левый"
+
+#: admin/class-ascsoftw-sl-admin.php:182
+msgid "Controls whether Section is shown Left or Right to Google Map."
+msgstr "Управляет показом раздела слева или справа от карты Google."
+
+#: admin/class-ascsoftw-sl-admin.php:186
+msgid "Show Country?"
+msgstr "Показать страну?"
+
+#: admin/class-ascsoftw-sl-admin.php:188
+msgid "Show Country in Result Listing."
+msgstr "Показать страну в списке результатов."
+
+#: admin/class-ascsoftw-sl-admin.php:192
+msgid "Show Zip Code?"
+msgstr "Показать почтовый индекс?"
+
+#: admin/class-ascsoftw-sl-admin.php:194
+msgid "Show Zip Code Field in Result Listing."
+msgstr "Показать поле почтового индекса в списке результатов."
+
+#: admin/class-ascsoftw-sl-admin.php:198
+msgid "Show State?"
+msgstr "Показать государство?"
+
+#: admin/class-ascsoftw-sl-admin.php:200
+msgid "Show State in Result Listing."
+msgstr "Показать состояние в списке результатов."
+
+#: admin/class-ascsoftw-sl-admin.php:204
+msgid "Show Address 2?"
+msgstr "Показать адрес 2?"
+
+#: admin/class-ascsoftw-sl-admin.php:206
+msgid "Show Address 2 in Result Listing."
+msgstr "Показать адрес 2 в списке результатов."
+
+#: admin/class-ascsoftw-sl-admin.php:210
+msgid "Link URL to Store Name?"
+msgstr "Ссылка URL на имя магазина?"
+
+#: admin/class-ascsoftw-sl-admin.php:213
+msgid "If checked, clicking on Store Name will open Store URL."
+msgstr "Если флажок установлен, нажатие на Имя магазина откроет URL магазина."
+
+#: admin/class-ascsoftw-sl-admin.php:217
+msgid "Bounce on Mouseover?"
+msgstr "Отскочить при наведении мыши?"
+
+#: admin/class-ascsoftw-sl-admin.php:220
+msgid ""
+"When User moves mouse over the Result Listing correponsing Marker on Google "
+"Maps will Bounce."
+msgstr ""
+"Когда пользователь наводит указатель мыши на списке результатов, на картах "
+"Google будет отражаться."
+
+#: admin/class-ascsoftw-sl-admin.php:224
+msgid "Open Marker on Click?"
+msgstr "Открыть маркер на клике?"
+
+#: admin/class-ascsoftw-sl-admin.php:227
+msgid ""
+"Clicking on Result Listing will open corresponding Marker on Google Maps"
+msgstr ""
+"При нажатии на список результатов откроется соответствующий маркер на Google "
+"Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:233
+msgid "Max Result"
+msgstr "Макс Результат"
+
+#: admin/class-ascsoftw-sl-admin.php:237
+msgid "Show Max Result Dropdown on Search Form"
+msgstr "Показать максимальный выпадающий список результатов в форме поиска"
+
+#: admin/class-ascsoftw-sl-admin.php:241
+msgid "Distance Search"
+msgstr "Поиск расстояния"
+
+#: admin/class-ascsoftw-sl-admin.php:245
+msgid "Allow User to do Distance Search"
+msgstr "Разрешить пользователю выполнять поиск по расстоянию"
+
+#: admin/class-ascsoftw-sl-admin.php:249
+msgid "Distance Unit"
+msgstr "Единица расстояния"
+
+#: admin/class-ascsoftw-sl-admin.php:253
+msgid "Unit to be used for Distance Search"
+msgstr "Единица, которая будет использоваться для поиска расстояния"
+
+#: admin/class-ascsoftw-sl-admin.php:257
+msgid "Category Filter"
+msgstr "Фильтр категорий"
+
+#: admin/class-ascsoftw-sl-admin.php:261
+msgid "Show Dropdown to Filter Search by Category"
+msgstr "Показать выпадающий список для поиска по категории"
+
+#: admin/class-ascsoftw-sl-admin.php:265
+msgid "Display Number of Results"
+msgstr "Показать количество результатов"
+
+#: admin/class-ascsoftw-sl-admin.php:268
+msgid "Show number of results returned after searching."
+msgstr "Показать количество результатов, возвращаемых после поиска."
+
+#: admin/class-ascsoftw-sl-admin.php:274
+msgid "Map Height (px)"
+msgstr "Высота карты (px)"
+
+#: admin/class-ascsoftw-sl-admin.php:278
+msgid "Height of the Map"
+msgstr "Высота карты"
+
+#: admin/class-ascsoftw-sl-admin.php:282
+msgid "Zoom Level"
+msgstr "Уровень масштабирования"
+
+#: admin/class-ascsoftw-sl-admin.php:286
+msgid "Default Zoom Level of the Map"
+msgstr "Уровень масштабирования карты по умолчанию"
+
+#: admin/class-ascsoftw-sl-admin.php:290
+msgid "Map type"
+msgstr "Тип карты"
+
+#: admin/class-ascsoftw-sl-admin.php:294
+msgid "Default Map Type"
+msgstr "Тип карты по умолчанию"
+
+#: admin/class-ascsoftw-sl-admin.php:298
+msgid "Disable Zoom Control"
+msgstr "Отключить управление масштабированием"
+
+#: admin/class-ascsoftw-sl-admin.php:302
+msgid "This will hide the Zoom In-Out Button"
+msgstr "Это скроет кнопку Zoom In-Out"
+
+#: admin/class-ascsoftw-sl-admin.php:306
+msgid "Disable Map Type Control"
+msgstr "Отключить контроль типа карты"
+
+#: admin/class-ascsoftw-sl-admin.php:310
+msgid "This will hide the button which allows User to change Map Type"
+msgstr "Это скроет кнопку, которая позволяет пользователю изменять тип карты"
+
+#: admin/class-ascsoftw-sl-admin.php:314
+msgid "Disable Full Screen Control"
+msgstr "Отключить полноэкранное управление"
+
+#: admin/class-ascsoftw-sl-admin.php:318
+msgid "This will hide the Google Map Full Screen Button"
+msgstr "Это скроет кнопку Google Map Full Screen"
+
+#: admin/class-ascsoftw-sl-admin.php:322
+msgid "Zoom Position"
+msgstr "Zoom Position"
+
+#: admin/class-ascsoftw-sl-admin.php:326
+msgid "Configure where the Zoom Button is shown on Google Maps."
+msgstr "Настройте, где кнопка масштабирования отображается на Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:330
+msgid "Map Type Position"
+msgstr "Тип карты Положение"
+
+#: admin/class-ascsoftw-sl-admin.php:334
+msgid "Configure where the Map Type Button is shown on Google Maps."
+msgstr "Укажите, где кнопка «Тип карты» отображается на Картах Google."
+
+#: admin/class-ascsoftw-sl-admin.php:338
+msgid "Full Screen Position"
+msgstr "Положение на весь экран"
+
+#: admin/class-ascsoftw-sl-admin.php:342
+msgid "Configure where the Full Screen Button is shown on Google Maps."
+msgstr "Настройте, где полноэкранная кнопка отображается на Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:346
+msgid "InfoWindow Content"
+msgstr "Содержимое InfoWindow"
+
+#: admin/class-ascsoftw-sl-admin.php:348
+msgid "Configure the Content Shown in the InfoWindow of Google Maps."
+msgstr "Настройте содержимое, отображаемое в информационном окне Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:362
+msgid "Settings"
+msgstr "настройки"
+
+#: includes/class-ascsoftw-sl-post-types.php:57
+msgctxt "post type general name"
+msgid "Stores"
+msgstr "магазины"
+
+#: includes/class-ascsoftw-sl-post-types.php:58
+msgctxt "post type singular name"
+msgid "Store"
+msgstr "хранить"
+
+#: includes/class-ascsoftw-sl-post-types.php:59
+msgctxt "admin menu"
+msgid "Store Locator"
+msgstr "Магазин Локатор"
+
+#: includes/class-ascsoftw-sl-post-types.php:60
+msgctxt "add new on admin bar"
+msgid "Store"
+msgstr "хранить"
+
+#: includes/class-ascsoftw-sl-post-types.php:61
+msgctxt "ascsoftw_sl"
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: includes/class-ascsoftw-sl-post-types.php:62
+msgid "Add New Store"
+msgstr "Добавить новый магазин"
+
+#: includes/class-ascsoftw-sl-post-types.php:63
+msgid "New Store"
+msgstr "Новый Магазин"
+
+#: includes/class-ascsoftw-sl-post-types.php:64
+msgid "Edit Store"
+msgstr "Изменить магазин"
+
+#: includes/class-ascsoftw-sl-post-types.php:65
+msgid "View Store"
+msgstr "Просмотреть магазин"
+
+#: includes/class-ascsoftw-sl-post-types.php:66
+msgid "All Stores"
+msgstr "Все магазины"
+
+#: includes/class-ascsoftw-sl-post-types.php:67
+msgid "Search Stores"
+msgstr "Поиск магазинов"
+
+#: includes/class-ascsoftw-sl-post-types.php:68
+msgid "Parent Stores:"
+msgstr "Магазины для родителей:"
+
+#: includes/class-ascsoftw-sl-post-types.php:69
+msgid "No store found."
+msgstr "Магазин не найден."
+
+#: includes/class-ascsoftw-sl-post-types.php:70
+msgid "No stores found in Trash."
+msgstr "В корзине нет магазинов."
+
+#: includes/class-ascsoftw-sl-post-types.php:75
+msgid "Stores."
+msgstr "Магазины."
+
+#: includes/class-ascsoftw-sl-post-types.php:119
+msgid "Store Details"
+msgstr "Детали магазина"
+
+#: includes/class-ascsoftw-sl-post-types.php:128
+msgid "Location"
+msgstr "Место нахождения"
+
+#: includes/class-ascsoftw-sl-post-types.php:129
+msgid "Drag the marker to set the exact location"
+msgstr "Перетащите маркер, чтобы установить точное местоположение"
+
+#: includes/class-ascsoftw-sl-post-types.php:138
+msgid "Address"
+msgstr "Адрес"
+
+#: includes/class-ascsoftw-sl-post-types.php:149
+msgid "Address 2"
+msgstr "Адрес 2"
+
+#: includes/class-ascsoftw-sl-post-types.php:156
+msgid "City"
+msgstr "город"
+
+#: includes/class-ascsoftw-sl-post-types.php:167
+msgid "State"
+msgstr "государственный"
+
+#: includes/class-ascsoftw-sl-post-types.php:174
+msgid "ZipCode"
+msgstr "Почтовый Индекс"
+
+#: includes/class-ascsoftw-sl-post-types.php:181
+msgid "Country"
+msgstr "Страна"
+
+#: includes/class-ascsoftw-sl-post-types.php:188
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/class-ascsoftw-sl-post-types.php:195
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: includes/class-ascsoftw-sl-post-types.php:205
+msgid "Url"
+msgstr "Веб-сайт"
+
+#: public/partials/ascsoftw-sl-public-display.php:23
+msgid "Enter the search location to find Nearest Store"
+msgstr "Введите место поиска, чтобы найти ближайший магазин"
+
+#: public/partials/ascsoftw-sl-public-display.php:35
+msgid "Max Results"
+msgstr "Макс. Результаты"
+
+#: public/partials/ascsoftw-sl-public-display.php:51
+msgid "Radius"
+msgstr "Радиус"
+
+#: public/partials/ascsoftw-sl-public-display.php:53
+#: public/partials/ascsoftw-sl-public-display.php:69
+msgid "--Any--"
+msgstr "--Любой--"
+
+#: public/partials/ascsoftw-sl-public-display.php:67
+msgid "Categories"
+msgstr "категории"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Showing"
+msgstr "показ"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Results"
+msgstr "Результаты"
+
+#: public/partials/ascsoftw-sl-public-display.php:107
+msgid "No Results Found"
+msgstr "Результаты не найдены"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "Get Directions"
+msgstr "Получить направление"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "for"
+msgstr "к"
+
+#. Name of the plugin
+msgid "Ascsoftw Store Locator"
+msgstr "Ascsoftw Магазин Локатор"
+
+#. Description of the plugin
+msgid ""
+"Helps your front end user search the Nearest Stores interactively using "
+"Google Maps."
+msgstr ""
+"Помогает вашему внешнему пользователю осуществлять поиск ближайших магазинов "
+"в интерактивном режиме с помощью Google Maps."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://github.com/ascsoftw"
+msgstr "http://github.com/ascsoftw"
+
+#. Author of the plugin
+msgid "Sunil Guleria"
+msgstr "Sunil Guleria"
+
+#~ msgid "Update Fields"
+#~ msgstr "Обновить поля"

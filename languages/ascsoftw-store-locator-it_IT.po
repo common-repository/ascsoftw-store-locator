@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-10-10 12:33+0000\n"
+"PO-Revision-Date: 2019-10-10 18:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: admin/class-ascsoftw-sl-admin.php:99
+msgid "KM"
+msgstr "km "
+
+#: admin/class-ascsoftw-sl-admin.php:100
+msgid "Miles"
+msgstr "Miglia"
+
+#: admin/class-ascsoftw-sl-admin.php:104
+msgid "Yes"
+msgstr "sì"
+
+#: admin/class-ascsoftw-sl-admin.php:105
+msgid "No"
+msgstr "No"
+
+#: admin/class-ascsoftw-sl-admin.php:109
+msgid "Default"
+msgstr "Predefinito"
+
+#: admin/class-ascsoftw-sl-admin.php:110
+msgid "Top Left"
+msgstr "In alto a sinistra"
+
+#: admin/class-ascsoftw-sl-admin.php:111
+msgid "Top Center"
+msgstr "In alto al centro"
+
+#: admin/class-ascsoftw-sl-admin.php:112
+msgid "Top Right"
+msgstr "In alto a destra"
+
+#: admin/class-ascsoftw-sl-admin.php:113
+msgid "Left Center"
+msgstr "Centro sinistro"
+
+#: admin/class-ascsoftw-sl-admin.php:114
+msgid "Left Top"
+msgstr "In alto a sinistra"
+
+#: admin/class-ascsoftw-sl-admin.php:115
+msgid "Left Bottom"
+msgstr "In basso a sinistra"
+
+#: admin/class-ascsoftw-sl-admin.php:116 admin/class-ascsoftw-sl-admin.php:179
+msgid "Right"
+msgstr "Lato destro"
+
+#: admin/class-ascsoftw-sl-admin.php:117
+msgid "Right Center"
+msgstr "Centro giusto"
+
+#: admin/class-ascsoftw-sl-admin.php:118
+msgid "Right Bottom"
+msgstr "In basso a destra"
+
+#: admin/class-ascsoftw-sl-admin.php:119
+msgid "Bottom Left"
+msgstr "In basso a sinistra"
+
+#: admin/class-ascsoftw-sl-admin.php:120
+msgid "Bottom Center"
+msgstr "Centro inferiore"
+
+#: admin/class-ascsoftw-sl-admin.php:121
+msgid "Bottom Right"
+msgstr "In basso a destra"
+
+#: admin/class-ascsoftw-sl-admin.php:122
+msgid "Center"
+msgstr "Centro"
+
+#: admin/class-ascsoftw-sl-admin.php:125
+msgid "Note: Kindly use following placeholders"
+msgstr "Nota: utilizzare i seguenti segnaposto"
+
+#: admin/class-ascsoftw-sl-admin.php:131 admin/class-ascsoftw-sl-admin.php:132
+msgid "Store Locator Settings"
+msgstr "Memorizza impostazioni localizzatore"
+
+#: admin/class-ascsoftw-sl-admin.php:139
+msgid "Initial Section"
+msgstr "Sezione iniziale"
+
+#: admin/class-ascsoftw-sl-admin.php:140
+msgid "This Section contains mandatory fields required to get you started"
+msgstr "Questa sezione contiene campi obbligatori richiesti per iniziare"
+
+#: admin/class-ascsoftw-sl-admin.php:144
+msgid "Search Form"
+msgstr "Modulo di ricerca"
+
+#: admin/class-ascsoftw-sl-admin.php:145
+msgid "Customize your Search Form Settings"
+msgstr "Personalizza le impostazioni del modulo di ricerca"
+
+#: admin/class-ascsoftw-sl-admin.php:149
+msgid "Result Section"
+msgstr "Sezione dei risultati"
+
+#: admin/class-ascsoftw-sl-admin.php:150
+msgid "Customize your Result Section"
+msgstr "Personalizza la tua sezione dei risultati"
+
+#: admin/class-ascsoftw-sl-admin.php:154
+msgid "Map"
+msgstr "Carta geografica"
+
+#: admin/class-ascsoftw-sl-admin.php:155
+msgid "Customize your Google Maps"
+msgstr "Personalizza il tuo Google Maps"
+
+#: admin/class-ascsoftw-sl-admin.php:162
+msgid "Google API Key"
+msgstr "Chiave API di Google"
+
+#: admin/class-ascsoftw-sl-admin.php:168
+msgid "Display Result Section?"
+msgstr "Visualizza la sezione dei risultati?"
+
+#: admin/class-ascsoftw-sl-admin.php:171
+msgid "Show Result Section next to Google Maps."
+msgstr "Mostra la sezione dei risultati accanto a Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:175
+msgid "Position"
+msgstr "Posizione"
+
+#: admin/class-ascsoftw-sl-admin.php:178
+msgid "Left"
+msgstr "Lato sinistro"
+
+#: admin/class-ascsoftw-sl-admin.php:182
+msgid "Controls whether Section is shown Left or Right to Google Map."
+msgstr ""
+"Controlla se la sezione viene mostrata a sinistra o a destra su Google Map."
+
+#: admin/class-ascsoftw-sl-admin.php:186
+msgid "Show Country?"
+msgstr "Mostra Paese?"
+
+#: admin/class-ascsoftw-sl-admin.php:188
+msgid "Show Country in Result Listing."
+msgstr "Mostra Paese nella lista dei risultati."
+
+#: admin/class-ascsoftw-sl-admin.php:192
+msgid "Show Zip Code?"
+msgstr "Mostra codice postale?"
+
+#: admin/class-ascsoftw-sl-admin.php:194
+msgid "Show Zip Code Field in Result Listing."
+msgstr "Mostra il campo Codice postale nell'elenco dei risultati."
+
+#: admin/class-ascsoftw-sl-admin.php:198
+msgid "Show State?"
+msgstr "Mostra stato?"
+
+#: admin/class-ascsoftw-sl-admin.php:200
+msgid "Show State in Result Listing."
+msgstr "Mostra stato nell'elenco dei risultati."
+
+#: admin/class-ascsoftw-sl-admin.php:204
+msgid "Show Address 2?"
+msgstr "Mostra indirizzo 2?"
+
+#: admin/class-ascsoftw-sl-admin.php:206
+msgid "Show Address 2 in Result Listing."
+msgstr "Mostra l'indirizzo 2 nell'elenco dei risultati."
+
+#: admin/class-ascsoftw-sl-admin.php:210
+msgid "Link URL to Store Name?"
+msgstr "Collega l'URL al nome del negozio?"
+
+#: admin/class-ascsoftw-sl-admin.php:213
+msgid "If checked, clicking on Store Name will open Store URL."
+msgstr ""
+"Se selezionato, facendo clic su Nome negozio si aprirà l'URL del negozio."
+
+#: admin/class-ascsoftw-sl-admin.php:217
+msgid "Bounce on Mouseover?"
+msgstr "Rimbalzare al passaggio del mouse?"
+
+#: admin/class-ascsoftw-sl-admin.php:220
+msgid ""
+"When User moves mouse over the Result Listing correponsing Marker on Google "
+"Maps will Bounce."
+msgstr ""
+"Quando l'utente sposta il mouse sull'Elenco dei risultati, l'indicatore "
+"corrispondente su Google Maps rimbalza."
+
+#: admin/class-ascsoftw-sl-admin.php:224
+msgid "Open Marker on Click?"
+msgstr "Apri marker su Click?"
+
+#: admin/class-ascsoftw-sl-admin.php:227
+msgid ""
+"Clicking on Result Listing will open corresponding Marker on Google Maps"
+msgstr ""
+"Facendo clic su Elenco risultati si aprirà l'indicatore corrispondente su "
+"Google Maps"
+
+#: admin/class-ascsoftw-sl-admin.php:233
+msgid "Max Result"
+msgstr "Risultato massimo"
+
+#: admin/class-ascsoftw-sl-admin.php:237
+msgid "Show Max Result Dropdown on Search Form"
+msgstr "Mostra menu a discesa Risultato massimo nel modulo di ricerca"
+
+#: admin/class-ascsoftw-sl-admin.php:241
+msgid "Distance Search"
+msgstr "Ricerca a distanza"
+
+#: admin/class-ascsoftw-sl-admin.php:245
+msgid "Allow User to do Distance Search"
+msgstr "Consenti all'utente di eseguire la ricerca a distanza"
+
+#: admin/class-ascsoftw-sl-admin.php:249
+msgid "Distance Unit"
+msgstr "Unità di distanza"
+
+#: admin/class-ascsoftw-sl-admin.php:253
+msgid "Unit to be used for Distance Search"
+msgstr "Unità da utilizzare per la ricerca a distanza"
+
+#: admin/class-ascsoftw-sl-admin.php:257
+msgid "Category Filter"
+msgstr "Filtro categoria"
+
+#: admin/class-ascsoftw-sl-admin.php:261
+msgid "Show Dropdown to Filter Search by Category"
+msgstr "Mostra menu a discesa per filtrare la ricerca per categoria"
+
+#: admin/class-ascsoftw-sl-admin.php:265
+msgid "Display Number of Results"
+msgstr "Visualizza il numero di risultati"
+
+#: admin/class-ascsoftw-sl-admin.php:268
+msgid "Show number of results returned after searching."
+msgstr "Mostra il numero di risultati restituiti dopo la ricerca."
+
+#: admin/class-ascsoftw-sl-admin.php:274
+msgid "Map Height (px)"
+msgstr "Altezza mappa (px)"
+
+#: admin/class-ascsoftw-sl-admin.php:278
+msgid "Height of the Map"
+msgstr "Altezza della mappa"
+
+#: admin/class-ascsoftw-sl-admin.php:282
+msgid "Zoom Level"
+msgstr "Livello di zoom"
+
+#: admin/class-ascsoftw-sl-admin.php:286
+msgid "Default Zoom Level of the Map"
+msgstr "Livello di zoom predefinito della mappa"
+
+#: admin/class-ascsoftw-sl-admin.php:290
+msgid "Map type"
+msgstr "Tipo di mappa"
+
+#: admin/class-ascsoftw-sl-admin.php:294
+msgid "Default Map Type"
+msgstr "Tipo di mappa predefinito"
+
+#: admin/class-ascsoftw-sl-admin.php:298
+msgid "Disable Zoom Control"
+msgstr "Disabilita il controllo zoom"
+
+#: admin/class-ascsoftw-sl-admin.php:302
+msgid "This will hide the Zoom In-Out Button"
+msgstr "Questo nasconderà il pulsante Zoom In-Out"
+
+#: admin/class-ascsoftw-sl-admin.php:306
+msgid "Disable Map Type Control"
+msgstr "Disabilita il controllo del tipo di mappa"
+
+#: admin/class-ascsoftw-sl-admin.php:310
+msgid "This will hide the button which allows User to change Map Type"
+msgstr ""
+"Ciò nasconderà il pulsante che consente all'utente di modificare il tipo di "
+"mappa"
+
+#: admin/class-ascsoftw-sl-admin.php:314
+msgid "Disable Full Screen Control"
+msgstr "Disabilita il controllo a schermo intero"
+
+#: admin/class-ascsoftw-sl-admin.php:318
+msgid "This will hide the Google Map Full Screen Button"
+msgstr "Ciò nasconderà il pulsante Schermo intero di Google Map"
+
+#: admin/class-ascsoftw-sl-admin.php:322
+msgid "Zoom Position"
+msgstr "Posizione dello zoom"
+
+#: admin/class-ascsoftw-sl-admin.php:326
+msgid "Configure where the Zoom Button is shown on Google Maps."
+msgstr "Configura dove viene visualizzato il pulsante Zoom su Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:330
+msgid "Map Type Position"
+msgstr "Posizione del tipo di mappa"
+
+#: admin/class-ascsoftw-sl-admin.php:334
+msgid "Configure where the Map Type Button is shown on Google Maps."
+msgstr ""
+"Configura dove viene visualizzato il pulsante Tipo di mappa su Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:338
+msgid "Full Screen Position"
+msgstr "Posizione a schermo intero"
+
+#: admin/class-ascsoftw-sl-admin.php:342
+msgid "Configure where the Full Screen Button is shown on Google Maps."
+msgstr ""
+"Configura dove viene visualizzato il pulsante Schermo intero su Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:346
+msgid "InfoWindow Content"
+msgstr "Contenuto di InfoWindow"
+
+#: admin/class-ascsoftw-sl-admin.php:348
+msgid "Configure the Content Shown in the InfoWindow of Google Maps."
+msgstr "Configura il contenuto mostrato nell'InfoWindow di Google Maps."
+
+#: admin/class-ascsoftw-sl-admin.php:362
+msgid "Settings"
+msgstr "impostazioni"
+
+#: includes/class-ascsoftw-sl-post-types.php:57
+msgctxt "post type general name"
+msgid "Stores"
+msgstr "I negozi"
+
+#: includes/class-ascsoftw-sl-post-types.php:58
+msgctxt "post type singular name"
+msgid "Store"
+msgstr "negozio"
+
+#: includes/class-ascsoftw-sl-post-types.php:59
+msgctxt "admin menu"
+msgid "Store Locator"
+msgstr "Store Locator"
+
+#: includes/class-ascsoftw-sl-post-types.php:60
+msgctxt "add new on admin bar"
+msgid "Store"
+msgstr "negozio"
+
+#: includes/class-ascsoftw-sl-post-types.php:61
+msgctxt "ascsoftw_sl"
+msgid "Add New"
+msgstr "Aggiungere nuova"
+
+#: includes/class-ascsoftw-sl-post-types.php:62
+msgid "Add New Store"
+msgstr "Aggiungi nuovo negozio"
+
+#: includes/class-ascsoftw-sl-post-types.php:63
+msgid "New Store"
+msgstr "Nuovo negozio"
+
+#: includes/class-ascsoftw-sl-post-types.php:64
+msgid "Edit Store"
+msgstr "Modifica negozio"
+
+#: includes/class-ascsoftw-sl-post-types.php:65
+msgid "View Store"
+msgstr "Visualizza il negozio"
+
+#: includes/class-ascsoftw-sl-post-types.php:66
+msgid "All Stores"
+msgstr "Tutti i negozi"
+
+#: includes/class-ascsoftw-sl-post-types.php:67
+msgid "Search Stores"
+msgstr "Cerca nei negozi"
+
+#: includes/class-ascsoftw-sl-post-types.php:68
+msgid "Parent Stores:"
+msgstr "Negozi principali:"
+
+#: includes/class-ascsoftw-sl-post-types.php:69
+msgid "No store found."
+msgstr "Nessun negozio trovato."
+
+#: includes/class-ascsoftw-sl-post-types.php:70
+msgid "No stores found in Trash."
+msgstr "Nessun negozio trovato nel Cestino."
+
+#: includes/class-ascsoftw-sl-post-types.php:75
+msgid "Stores."
+msgstr "I negozi."
+
+#: includes/class-ascsoftw-sl-post-types.php:119
+msgid "Store Details"
+msgstr "Dettagli negozio"
+
+#: includes/class-ascsoftw-sl-post-types.php:128
+msgid "Location"
+msgstr "Posizione"
+
+#: includes/class-ascsoftw-sl-post-types.php:129
+msgid "Drag the marker to set the exact location"
+msgstr "Trascina l'indicatore per impostare la posizione esatta"
+
+#: includes/class-ascsoftw-sl-post-types.php:138
+msgid "Address"
+msgstr "Indirizzo"
+
+#: includes/class-ascsoftw-sl-post-types.php:149
+msgid "Address 2"
+msgstr "Indirizzo 2"
+
+#: includes/class-ascsoftw-sl-post-types.php:156
+msgid "City"
+msgstr "Città"
+
+#: includes/class-ascsoftw-sl-post-types.php:167
+msgid "State"
+msgstr "stato"
+
+#: includes/class-ascsoftw-sl-post-types.php:174
+msgid "ZipCode"
+msgstr "Cap"
+
+#: includes/class-ascsoftw-sl-post-types.php:181
+msgid "Country"
+msgstr "Nazione"
+
+#: includes/class-ascsoftw-sl-post-types.php:188
+msgid "Phone"
+msgstr "Telefono"
+
+#: includes/class-ascsoftw-sl-post-types.php:195
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-ascsoftw-sl-post-types.php:205
+msgid "Url"
+msgstr "Link al browser"
+
+#: public/partials/ascsoftw-sl-public-display.php:23
+msgid "Enter the search location to find Nearest Store"
+msgstr "Inserisci il percorso di ricerca per trovare il negozio più vicino"
+
+#: public/partials/ascsoftw-sl-public-display.php:35
+msgid "Max Results"
+msgstr "Risultati massimi"
+
+#: public/partials/ascsoftw-sl-public-display.php:51
+msgid "Radius"
+msgstr "Raggio"
+
+#: public/partials/ascsoftw-sl-public-display.php:53
+#: public/partials/ascsoftw-sl-public-display.php:69
+msgid "--Any--"
+msgstr "--Qualunque--"
+
+#: public/partials/ascsoftw-sl-public-display.php:67
+msgid "Categories"
+msgstr "categorie"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Showing"
+msgstr "Mostrando"
+
+#: public/partials/ascsoftw-sl-public-display.php:79
+msgid "Results"
+msgstr "Risultati"
+
+#: public/partials/ascsoftw-sl-public-display.php:107
+msgid "No Results Found"
+msgstr "Nessun risultato trovato"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "Get Directions"
+msgstr "Ottenere direzioni"
+
+#: public/partials/ascsoftw-sl-result-listing-template.php:72
+msgid "for"
+msgstr "in direzione"
+
+#. Name of the plugin
+msgid "Ascsoftw Store Locator"
+msgstr "Ascsoftw Localizzatore di negozi"
+
+#. Description of the plugin
+msgid ""
+"Helps your front end user search the Nearest Stores interactively using "
+"Google Maps."
+msgstr ""
+"Aiuta il tuo utente front-end a cercare in modo interattivo i negozi più "
+"vicini utilizzando Google Maps."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://github.com/ascsoftw"
+msgstr "http://github.com/ascsoftw"
+
+#. Author of the plugin
+msgid "Sunil Guleria"
+msgstr "Sunil Guleria"
+
+#~ msgid "Update Fields"
+#~ msgstr "Campi di aggiornamento"
